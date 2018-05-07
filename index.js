@@ -12,5 +12,6 @@ function nestedTarget(){
 
 function deepestChild(){
   const start = document.getElementById('grand');
+  return start;
   
 }

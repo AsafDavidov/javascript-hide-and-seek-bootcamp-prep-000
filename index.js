@@ -1,7 +1,7 @@
 function getFirstSelector(selector){
-  console.log( '###########################################################');
-  return "ppselector"; 
-  //document.querySelector(selector).innerHTML;
+ // console.log( '###########################################################');
+  return document.querySelector(selector).innerHTML;
+ 
 }
 
 //function nestedTarget(target){

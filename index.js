@@ -2,10 +2,8 @@ function getFirstSelector(selector){
   return document.querySelector(selector);
 }
 
-function nestedTarget(){
-  const nest = document.getElementById('nested');
-  //console.log.querySelector(target));
-  return 3;
+function nestedTarget(target){
+  return document.getElementById('nested').querySelector(target);
 }
 
 //function increaseRankBy(n){

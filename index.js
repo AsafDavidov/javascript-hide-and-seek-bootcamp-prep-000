@@ -1,6 +1,6 @@
 function getFirstSelector(selector){
   console.log(selector);
-  return selector; 
+  return "ppselector"; 
   //document.querySelector(selector).innerHTML;
 }
 

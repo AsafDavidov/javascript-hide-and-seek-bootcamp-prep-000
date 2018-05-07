@@ -7,7 +7,7 @@ function nestedTarget(){
 }
 
 function increaseRankBy(n){
-  const li = document.getElementById()
+  const li = document.getElementById('app').querySelector('ul.')
 }
 
 function deepestChild(){

@@ -1,5 +1,5 @@
 function getFirstSelector(selector){
-  console.log(selector);
+  console.log(##############################################################);
   return "ppselector"; 
   //document.querySelector(selector).innerHTML;
 }

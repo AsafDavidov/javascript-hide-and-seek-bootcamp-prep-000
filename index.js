@@ -1,5 +1,5 @@
 function getFirstSelector(selector){
- // console.log( '###########################################################');
+  console.log( '###########################################################');
   return document.querySelector(selector).innerHTML;
  
 }

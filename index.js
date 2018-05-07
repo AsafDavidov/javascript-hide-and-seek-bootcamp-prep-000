@@ -4,14 +4,14 @@ function getFirstSelector(selector){
   //document.querySelector(selector).innerHTML;
 }
 
-function nestedTarget(target){
+//function nestedTarget(target){
   
-}
+//}
 
-function increaseRankBy(n){
+//function increaseRankBy(n){
   
-}
+//}
 
-function deepestChild(){
+//function deepestChild(){
   
-}
+//}
